@@ -81,11 +81,11 @@ slack-messaging-assignment/
    CHANNEL_ID=C090QM0MFM4
 
 
-3. **Run index.js**
+4. **Run index.js**
 
     npm start
 
-4. **Sample Log**
+5. **Sample Log**
 
    Using channel: C090QM0MFM4
    Successfully joined channel or already a member.
@@ -93,8 +93,8 @@ slack-messaging-assignment/
       - Text: Hello from my Node.js app!
       - Text: This is a scheduled message.
       - Text: <@U091A3G8VNV> has joined the channel.
-    Message successfully updated.
-    Message successfully deleted.
+   Message successfully updated.
+   Message successfully deleted.
 
 
 
